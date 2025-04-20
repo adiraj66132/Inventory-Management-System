@@ -20,7 +20,8 @@ A simple and interactive **Inventory Management System** built in **C** using th
 ## 📷 Preview
 
 === Inventory Management ===
-Add Item View Items Update Item Delete Item Search Item Exit
+![Screenshot From 2025-04-20 23-02-07](https://github.com/user-attachments/assets/fb2d70bb-c482-4bb6-a1e9-66c02e375ba9)
+
 
 
 ---
