@@ -1,0 +1,34 @@
+ID,Name,Category,Quantity,Price,LowStockThreshold
+1,"Example Item 1","Category 1",10,19.99,5
+2,"Example Item 2","Category 2",25,9.99,10
+3,"Example Item 3","Category 1",50,4.99,15
+
+# CSV Import Template for Inventory Management System
+#
+# Instructions:
+# 1. Keep the header row (first line) exactly as shown
+# 2. Replace example data with your own items
+# 3. Follow these field guidelines:
+#
+# ID: Integer, must be unique
+# Name: Text in quotes, max 50 characters
+# Category: Text in quotes, max 30 characters
+# Quantity: Integer, current stock level
+# Price: Decimal number (use . not ,)
+# LowStockThreshold: Integer, alert when quantity drops below this (0 to disable)
+#
+# Example:
+# 101,"USB Cable 2m","Electronics",50,5.99,10
+#
+# Notes:
+# - Use double quotes around text fields
+# - Don't use commas within field values
+# - Avoid special characters in names
+# - Keep IDs sequential to avoid conflicts
+# - Test with a small file first
+#
+# To import:
+# 1. Save this file with your data
+# 2. Run the inventory application
+# 3. Select "Import from CSV"
+# 4. Enter the filename when prompted
