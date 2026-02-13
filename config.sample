@@ -1,0 +1,15 @@
+# Inventory Management System v3.0 Configuration
+
+# Database location
+db_path = data/inventory.db
+
+# UI Settings
+items_per_page = 15
+
+# Inventory Defaults
+low_stock_default = 0
+default_category = Uncategorized
+
+# Backup Settings
+auto_backup = false
+backup_path = data/backups

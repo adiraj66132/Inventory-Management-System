@@ -1,0 +1,21 @@
+ID,Name,Category,Quantity,Price,LowStockThreshold
+1,"Laptop Computer","Electronics",5,899.99,2
+2,"USB-C Cable","Electronics",50,12.99,10
+3,"Wireless Mouse","Electronics",30,24.99,5
+4,"Mechanical Keyboard","Electronics",15,89.99,3
+5,"Monitor 27 inch","Electronics",8,299.99,2
+6,"Office Chair","Furniture",12,199.99,2
+7,"Standing Desk","Furniture",6,449.99,1
+8,"Notebook A4","Office Supplies",200,2.50,50
+9,"Ballpoint Pen Blue","Office Supplies",500,0.50,100
+10,"Stapler Heavy Duty","Office Supplies",25,8.99,5
+11,"Paper Reams A4","Office Supplies",100,5.99,20
+12,"Whiteboard Markers","Office Supplies",75,1.99,15
+13,"3D Printer Filament","Hardware",40,19.99,10
+14,"Arduino Uno","Hardware",20,24.99,5
+15,"Raspberry Pi 4","Hardware",15,55.00,3
+16,"Breadboard Kit","Hardware",30,8.99,8
+17,"LED Bulbs Pack","Hardware",60,12.99,15
+18,"Ethernet Cable 3m","Hardware",45,7.99,10
+19,"HDMI Cable 2m","Electronics",35,9.99,8
+20,"Webcam 1080p","Electronics",10,79.99,2
